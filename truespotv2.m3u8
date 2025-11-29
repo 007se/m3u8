@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776067&extension=m3u8
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
+
 
 
 
@@ -13,6 +14,7 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=116388
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163884&extension=m3u8
 
 TH
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776067&extension=m3u8
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776068&extension=m3u8
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776069&extension=m3u8
 
