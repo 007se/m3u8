@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=79486&extension=m3u8
+
+
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:B6:B4:EA&stream=79486&extension=m3u8
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:B6:B4:EA&stream=1261564&extension=m3u8
 
