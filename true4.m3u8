@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://love.uh6wzyncw9.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
+
 http://119.59.118.168/live/ch12/thailosonic2026/index.m3u8
 
 
